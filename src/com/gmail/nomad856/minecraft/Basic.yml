@@ -1,0 +1,8 @@
+name: Basic
+main: com.gmail.nomad856.minecraft.Basic
+version: 1.0
+
+commands:
+   sendme:
+      description: sendme
+      usage: /<command>

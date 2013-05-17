@@ -1,0 +1,8 @@
+name: Healing
+main: com.gmail.nomad856.minecraft.Healing
+version: 1.0
+
+commands:
+   heal:
+      description: heal
+      usage: /<command>

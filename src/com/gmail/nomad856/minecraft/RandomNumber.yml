@@ -1,0 +1,8 @@
+name: RandomNumbers
+main: com.gmail.nomad856.minecraft.RandomNumbers
+version: 1.0
+
+commands:
+   flip:
+      description: flip
+      usage: /<command>

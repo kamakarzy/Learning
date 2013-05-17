@@ -1,0 +1,12 @@
+name: ImportVault
+main: com.gmail.nomad856.minecraft.ImportVault
+version: 1.0
+
+commands:
+   test-economy:
+      description: test-economy
+      usage: /<command>
+   test-permission:
+      description: test-permission
+      usage: /<command>
+      permission: example.plugin.awesome

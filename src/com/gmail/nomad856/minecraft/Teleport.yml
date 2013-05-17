@@ -1,0 +1,8 @@
+name: Basic
+main: com.gmail.nomad856.minecraft.Teleport
+version: 1.0
+
+commands:
+   teleport:
+      description: teleport
+      usage: /<command>
